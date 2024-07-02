@@ -1,4 +1,5 @@
-<h1 style="color: #FF123A">Apsz · A frontend developer</h1>
+<h1><strong>Apsz</strong> · Frontend developer</h1>
+<h2>✔️ Commissions open</h2>
 
 <!--
 **TheApsz/TheApsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
