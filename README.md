@@ -1,5 +1,4 @@
-# Apsz | A frontend developer made in lithuania
-Im not completed with this readme, laptops just suck
+<h1 style="color: #FF123A">Apsz · A frontend developer</h1>
 
 <!--
 **TheApsz/TheApsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
