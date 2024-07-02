@@ -1,4 +1,5 @@
-## Hi there 👋
+# Apsz | A frontend developer made in lithuania
+Im not completed with this readme, laptops just suck
 
 <!--
 **TheApsz/TheApsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
