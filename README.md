@@ -1,10 +1,14 @@
-<h1>**Apsz** · Frontend developer</h1>
-<h2>✔️ Commissions open</h2>
-<h2>⛱️ On a vacation</h2>
+<h1>Apsz · Frontend developer</h1>
+<h2>❌ Commissions closed<br>
+⛱️ On a vacation</h2>
 
-<p>⚡Reach me on [Discord](https://discordapp.com/users/686479657444311041)
+⚡Reach me on [Discord](https://discordapp.com/users/686479657444311041),
  [Telegram](https://t.me/TheApsz) or on [Twitter](https://x.com/TheApsz)
-</p>
+ 
+♦️ Your local gambler<br>
+🍴 Food lover<br>
+🔪 Hates bad ui/ux designs
+
 
 <!--
 **TheApsz/TheApsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
