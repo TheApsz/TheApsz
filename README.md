@@ -1,6 +1,6 @@
 <h1>Apsz · Frontend developer</h1>
-<h2>❌ Commissions closed<br>
-⛱️ On a vacation</h2>
+<h2>✔️ Commissions Open<br>
+<a href="https://trello.com/b/awBqVwIp/">📊 Check out the queue</a></h2>
 
 ⚡Reach me on [Discord](https://discordapp.com/users/686479657444311041),
  [Telegram](https://t.me/TheApsz) or on [Twitter](https://x.com/TheApsz)
