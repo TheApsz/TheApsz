@@ -1,5 +1,5 @@
 <h1>Apsz · Frontend developer</h1>
-<h2>✔️ Commissions Open<br>
+<h2>✖️ Commissions Closed<br>
 <a href="https://trello.com/b/awBqVwIp/">📊 Check out the queue</a></h2>
 
 ⚡Reach me on [Discord](https://discordapp.com/users/686479657444311041),
