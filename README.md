@@ -1,14 +1,11 @@
-<h1>Apsz · Frontend developer</h1>
-<h2>✖️ Commissions Closed<br>
-<a href="https://trello.com/b/awBqVwIp/">📊 Check out the queue</a></h2>
+# **Apsz · Frontend developer**
 
 ⚡Reach me on [Discord](https://discordapp.com/users/686479657444311041),
  [Telegram](https://t.me/TheApsz) or on [Twitter](https://x.com/TheApsz)
-
  
-♦️ Your local gambler<br>
-🍴 Food lover<br>
-🔪 Hates bad ui/ux designs
+
+✖️ Commissions Closed<br>
+[📊 Check out the queue](https://example.com)
 
 
 <!--
